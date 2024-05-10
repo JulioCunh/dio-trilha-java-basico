@@ -23,7 +23,7 @@ public class ContaTerminal {
 
     System.out.println(
         "Olá " + nomeCliente + " " + sobreNome + ", obrigado por criar uma conta em nosso banco, sua agência é "
-            + agencia + ", conta " + conta + " e seu saldo R$" + saldo + " já está disponível para saque");
+            + agencia + ", conta " + conta + "  seu saldo R$ " + saldo + " já está disponível para saque");
 
   }
 }
